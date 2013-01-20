@@ -1,0 +1,10 @@
+{
+  "launch_in_dev": [
+    "PhantomJS"
+  ],
+
+  "src_files": [
+    "lib/**/*.js",
+    "*.js"
+  ]
+}

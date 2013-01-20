@@ -1,0 +1,12 @@
+{
+  "name": "jQueryPlugin",
+  "description": "A jQuery plugin",
+  "version": "0.1.0",
+  "homepage": "http://example.com",
+  "author": {
+    "name": "Author Name",
+    "url": "http://example.com"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
