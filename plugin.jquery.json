@@ -1,0 +1,26 @@
+{
+  "name": "plugin",
+  "title": "jQuery Plugin",
+  "description": "A jQuery plugin.",
+  "keywords": [
+    "plugin"
+  ],
+  "version": "0.1.0",
+  "author": {
+    "name": "Author Name",
+    "url": "http://example.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://example.com/LICENSE.md"
+    }
+  ],
+  "homepage": "http://example.com",
+  "demo": "http://example.com",
+  "docs": "http://example.com",
+  "download": "http://example.com",
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
